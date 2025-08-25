@@ -24,8 +24,8 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install -y python3 python3-pip docker.io git
 
 # 2. Clone the repository (or place bot files somewhere safe)
-git clone https://github.com/yourname/vps-bot.git
-cd vps-bot
+git clone https://github.com/hiteshwy/DN-BOT.git 
+cd DN-BOT
 
 # 3. Install Python requirements
 pip install -r requirements.txt
